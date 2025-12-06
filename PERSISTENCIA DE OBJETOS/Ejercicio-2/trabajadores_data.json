@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Ana Lopez",
+        "carnet": 101,
+        "salario": 3850.0
+    },
+    {
+        "nombre": "Boris Mamani",
+        "carnet": 102,
+        "salario": 5750.0
+    },
+    {
+        "nombre": "Carlos Perez",
+        "carnet": 103,
+        "salario": 3000.0
+    }
+]

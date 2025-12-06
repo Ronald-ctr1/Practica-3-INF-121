@@ -1,0 +1,38 @@
+[
+    {
+        "codCliente": 100,
+        "codLibro": 10,
+        "fechaPrestamo": "2025-01-10",
+        "cantidad": 2
+    },
+    {
+        "codCliente": 100,
+        "codLibro": 20,
+        "fechaPrestamo": "2025-01-15",
+        "cantidad": 1
+    },
+    {
+        "codCliente": 200,
+        "codLibro": 10,
+        "fechaPrestamo": "2025-01-20",
+        "cantidad": 3
+    },
+    {
+        "codCliente": 200,
+        "codLibro": 30,
+        "fechaPrestamo": "2025-01-25",
+        "cantidad": 1
+    },
+    {
+        "codCliente": 300,
+        "codLibro": 20,
+        "fechaPrestamo": "2025-02-01",
+        "cantidad": 1
+    },
+    {
+        "codCliente": 200,
+        "codLibro": 20,
+        "fechaPrestamo": "2025-02-05",
+        "cantidad": 2
+    }
+]

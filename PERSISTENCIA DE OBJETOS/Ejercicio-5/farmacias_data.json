@@ -1,0 +1,74 @@
+[
+    {
+        "nombreFarmacia": "Farmacia Central",
+        "sucursal": 1,
+        "direccion": "Calle A 100",
+        "nroMedicamentos": 4,
+        "medicamentos": [
+            {
+                "nombre": "Tapsin",
+                "codMedicamento": 101,
+                "tipo": "Resfrio",
+                "precio": 5.5
+            },
+            {
+                "nombre": "Jarabe P",
+                "codMedicamento": 102,
+                "tipo": "Tos",
+                "precio": 12.0
+            },
+            {
+                "nombre": "Aspirina",
+                "codMedicamento": 103,
+                "tipo": "Dolor",
+                "precio": 2.0
+            },
+            {
+                "nombre": "Jarabe Q",
+                "codMedicamento": 202,
+                "tipo": "Tos",
+                "precio": 15.0
+            }
+        ]
+    },
+    {
+        "nombreFarmacia": "Farmacia Sur",
+        "sucursal": 2,
+        "direccion": "Avenida B 50",
+        "nroMedicamentos": 2,
+        "medicamentos": [
+            {
+                "nombre": "Tapsin",
+                "codMedicamento": 201,
+                "tipo": "Resfrio",
+                "precio": 6.0
+            },
+            {
+                "nombre": "Ibuprofeno",
+                "codMedicamento": 203,
+                "tipo": "Dolor",
+                "precio": 8.5
+            }
+        ]
+    },
+    {
+        "nombreFarmacia": "Farmacia Norte",
+        "sucursal": 3,
+        "direccion": "Plaza C 20",
+        "nroMedicamentos": 2,
+        "medicamentos": [
+            {
+                "nombre": "Diclofenaco",
+                "codMedicamento": 301,
+                "tipo": "Dolor",
+                "precio": 7.0
+            },
+            {
+                "nombre": "Jarabe R",
+                "codMedicamento": 302,
+                "tipo": "Tos",
+                "precio": 10.0
+            }
+        ]
+    }
+]

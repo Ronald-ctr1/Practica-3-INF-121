@@ -1,0 +1,22 @@
+[
+    {
+        "codLibro": 10,
+        "titulo": "Python",
+        "precio": 50.0
+    },
+    {
+        "codLibro": 20,
+        "titulo": "Dise\u00f1o X",
+        "precio": 25.5
+    },
+    {
+        "codLibro": 30,
+        "titulo": "Base de Pie ",
+        "precio": 75.0
+    },
+    {
+        "codLibro": 40,
+        "titulo": "Web Dev",
+        "precio": 15.0
+    }
+]

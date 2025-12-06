@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "juan",
+        "nivel": 30,
+        "puntaje": 25
+    },
+    {
+        "nombre": "luiyi",
+        "nivel": 1,
+        "puntaje": 100
+    }
+]

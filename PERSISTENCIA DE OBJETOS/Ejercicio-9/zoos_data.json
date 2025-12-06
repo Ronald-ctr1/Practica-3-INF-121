@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "nombre": "Zoo ",
+        "nroAnimales": 0,
+        "animales": []
+    },
+    {
+        "id": 2,
+        "nombre": "Ecologi ",
+        "nroAnimales": 13,
+        "animales": [
+            {
+                "especie": "Oso",
+                "nombre": "Mamifero",
+                "cantidad": 3
+            },
+            {
+                "especie": "Cebra",
+                "nombre": "Herb\u00edvoro",
+                "cantidad": 5
+            },
+            {
+                "especie": "Jirafa",
+                "nombre": "Herb\u00edvoro",
+                "cantidad": 2
+            },
+            {
+                "especie": "Le\u00f3n",
+                "nombre": "Felino ",
+                "cantidad": 2
+            },
+            {
+                "especie": "Tigre",
+                "nombre": "Felino ",
+                "cantidad": 1
+            }
+        ]
+    }
+]

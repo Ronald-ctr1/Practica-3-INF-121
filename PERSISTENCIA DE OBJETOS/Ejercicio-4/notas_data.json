@@ -1,0 +1,42 @@
+{
+    "estudiantes": [
+        {
+            "ru": 1001,
+            "nombre": "Ana",
+            "paterno": "Cruz",
+            "materno": "B",
+            "edad": 20
+        },
+        {
+            "ru": 1002,
+            "nombre": "Juan",
+            "paterno": "Paz",
+            "materno": "M",
+            "edad": 21
+        },
+        {
+            "ru": 1003,
+            "nombre": "Elsa",
+            "paterno": "Sol",
+            "materno": "C",
+            "edad": 22
+        }
+    ],
+    "notas": [
+        {
+            "materia": "Fisica",
+            "notaFinal": 80.0,
+            "ru_estudiante": 1001
+        },
+        {
+            "materia": "Fisica",
+            "notaFinal": 98.0,
+            "ru_estudiante": 1003
+        },
+        {
+            "materia": "Quimica",
+            "notaFinal": 70.0,
+            "ru_estudiante": 1003
+        }
+    ]
+}

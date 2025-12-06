@@ -1,0 +1,20 @@
+[
+    {
+        "codCliente": 100,
+        "ci": 1234,
+        "nombre": "Ana",
+        "apellido": "Gomez"
+    },
+    {
+        "codCliente": 200,
+        "ci": 5678,
+        "nombre": "Luis",
+        "apellido": "Perez"
+    },
+    {
+        "codCliente": 300,
+        "ci": 9012,
+        "nombre": "Marta",
+        "apellido": "Rojas"
+    }
+]

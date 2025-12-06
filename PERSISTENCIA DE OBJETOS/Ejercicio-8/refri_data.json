@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Yogur",
+        "fechaVencimiento": "2025-12-15",
+        "cantidad": 2
+    },
+    {
+        "nombre": "Jugo",
+        "fechaVencimiento": "2025-12-05",
+        "cantidad": 10
+    },
+    {
+        "nombre": "Huevo",
+        "fechaVencimiento": "2026-03-01",
+        "cantidad": 12
+    }
+]
